@@ -1,0 +1,31 @@
+body{
+    background: rgb(0, 0, 0);
+}
+
+.red{
+   color: red;
+   text-align: center;
+   font-style: italic
+}
+
+.white{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-size: 18px;
+    font: arial
+}
+
+.tabletitle{
+    color: red;
+    font-style: italic
+}
+.table{
+    color:white;
+    font-style: italic;
+    font-size: 16px
+}
+.link{
+    text-align: center;
+    font-style: bold italic;
+}
